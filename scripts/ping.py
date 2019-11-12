@@ -25,7 +25,7 @@ def check_nodes(filename='nodes.txt'):
                 except:
                     country = 'US'
                     if tld == 'UK':
-                        country: 'United Kingdom'
+                        country = 'United Kingdom'
                 print(f'success: {url}')
                 f.write(f'|{url}|{country}|\n')
     
