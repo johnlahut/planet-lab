@@ -3,6 +3,7 @@
 ## Structure
 - `scripts/` - Project wide scripts that are general purpose
 - `data/` - Data files; once data is cleaned and placed into the standard format, results should go here
+- `docs/` - Project wide documentation
 - `<UAlbany NetID>/` - Individual's folders, node-specific scripts should go here
 
 ## Cleaned data format
