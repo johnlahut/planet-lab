@@ -1,0 +1,25 @@
+PING pl-dccd-01.cua.uam.mx (148.206.185.33) 56(84) bytes of data.
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=1 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=2 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=3 ttl=47 time=68.5 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=4 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=5 ttl=47 time=68.5 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=6 ttl=47 time=68.2 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=7 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=8 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=9 ttl=47 time=68.5 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=10 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=11 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=12 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=13 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=14 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=15 ttl=47 time=68.5 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=16 ttl=47 time=68.4 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=17 ttl=47 time=68.7 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=18 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=19 ttl=47 time=68.3 ms
+64 bytes from pl-dccd-01.cua.uam.mx (148.206.185.33): icmp_seq=20 ttl=47 time=68.2 ms
+
+--- pl-dccd-01.cua.uam.mx ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 68.267/68.423/68.774/0.379 ms

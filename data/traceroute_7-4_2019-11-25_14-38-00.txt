@@ -1,0 +1,20 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.846 ms  0.837 ms  0.830 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.404 ms  1.387 ms  1.387 ms
+ 3  38.140.148.73 (38.140.148.73)  1.742 ms  2.040 ms  1.920 ms
+ 4  be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.201 ms  2.074 ms  2.123 ms
+ 5  be2137.rcr52.bwi01.atlas.cogentco.com (154.54.83.62)  4.506 ms be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.675 ms  4.648 ms
+ 6  be2132.ccr42.dca01.atlas.cogentco.com (154.54.82.229)  6.040 ms  6.084 ms  5.992 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  16.977 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  17.350 ms  17.283 ms
+ 8  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.371 ms  31.509 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.168 ms
+ 9  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  38.948 ms be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  39.218 ms be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.000 ms
+10  be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.156 ms be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.301 ms be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.236 ms
+11  38.140.240.90 (38.140.240.90)  38.874 ms  38.939 ms  38.925 ms
+12  201-174-251-1.transtelco.net (201.174.251.1)  59.530 ms 201-174-252-158.transtelco.net (201.174.252.158)  55.124 ms 201-174-251-1.transtelco.net (201.174.251.1)  59.556 ms
+13  201-174-250-170.transtelco.net (201.174.250.170)  75.254 ms 201-174-250-165.transtelco.net (201.174.250.165)  75.258 ms 201-174-255-215.transtelco.net (201.174.255.215)  73.624 ms
+14  201-174-145-14.transtelco.net (201.174.145.14)  61.251 ms  59.368 ms  61.014 ms
+15  * * *
+16  * * *
+17  fixed-187-190-3-18.totalplay.net (187.190.3.18)  69.319 ms  67.753 ms  69.398 ms
+18  148.206.190.1 (148.206.190.1)  68.674 ms * *
+19  pl-dccd-01.cua.uam.mx (148.206.185.33)  68.544 ms  66.963 ms  66.888 ms

@@ -1,0 +1,18 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.184 ms  1.461 ms  2.069 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  93.368 ms  93.407 ms  93.397 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.516 ms  0.505 ms  0.498 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.448 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.589 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.584 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.801 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.111 ms  2.104 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.091 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.919 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.692 ms
+ 7  * 163.253.5.16 (163.253.5.16)  1.839 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.779 ms
+ 8  163.253.5.16 (163.253.5.16)  1.757 ms  1.701 ms  1.699 ms
+ 9  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  64.980 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  6.754 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.356 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.375 ms  65.368 ms  65.360 ms
+11  150.99.92.4 (150.99.92.4)  163.547 ms  163.577 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.847 ms
+12  150.99.92.4 (150.99.92.4)  163.551 ms  163.469 ms  163.031 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.222 ms  163.673 ms 150.99.91.222 (150.99.91.222)  163.054 ms
+14  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  164.433 ms  163.819 ms  164.861 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  164.601 ms  163.695 ms  163.681 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.526 ms  163.589 ms  163.821 ms
+17  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.307 ms  163.351 ms  163.275 ms

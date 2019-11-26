@@ -1,0 +1,18 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.287 ms  1.541 ms  1.756 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  16.219 ms  16.234 ms  16.221 ms
+ 3  xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.481 ms  0.493 ms xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.465 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.443 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  0.580 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.595 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.878 ms  0.890 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.834 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.861 ms  1.900 ms  1.893 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  2.006 ms  2.068 ms  1.969 ms
+ 8  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.647 ms 163.253.5.16 (163.253.5.16)  1.752 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.607 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.348 ms  5.354 ms  5.708 ms
+10  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.877 ms  65.887 ms  65.753 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.738 ms  65.621 ms 150.99.92.4 (150.99.92.4)  163.425 ms
+12  150.99.92.4 (150.99.92.4)  163.454 ms  163.306 ms 150.99.91.222 (150.99.91.222)  163.277 ms
+13  150.99.91.222 (150.99.91.222)  162.989 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.454 ms 150.99.91.222 (150.99.91.222)  163.193 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  163.253 ms  163.185 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  163.693 ms
+15  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.536 ms  164.170 ms  163.640 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.916 ms  164.133 ms  164.364 ms
+17  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.438 ms  163.452 ms  163.397 ms

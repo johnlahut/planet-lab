@@ -1,0 +1,15 @@
+traceroute to planetlab2.ie.cuhk.edu.hk (103.49.160.132), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  55.060 ms  55.243 ms  55.647 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  55.421 ms  55.166 ms  83.376 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  83.848 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  56.148 ms  56.018 ms
+ 4  ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  55.856 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  55.939 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  55.453 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  55.473 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  55.911 ms  55.692 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  56.061 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  54.529 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  54.931 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  56.582 ms  57.630 ms 163.253.5.16 (163.253.5.16)  85.040 ms
+ 8  163.253.5.16 (163.253.5.16)  55.734 ms  55.633 ms  55.852 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  55.421 ms  112.572 ms  226.092 ms
+10  vlan-966.rtr.hong.transpac.org (198.71.45.137)  931.848 ms  1247.004 ms  862.331 ms
+11  vlan-966.rtr.hong.transpac.org (198.71.45.137)  673.640 ms  279.487 ms 103.43.32.1 (103.43.32.1)  307.339 ms
+12  103.43.32.1 (103.43.32.1)  363.282 ms 103.43.31.13 (103.43.31.13)  279.367 ms  251.550 ms
+13  103.43.31.13 (103.43.31.13)  279.489 ms  625.049 ms  569.265 ms
+14  137.189.192.225 (137.189.192.225)  249.629 ms planetlab2.ie.cuhk.edu.hk (103.49.160.132)  341.359 ms  313.512 ms

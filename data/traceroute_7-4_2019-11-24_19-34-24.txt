@@ -1,0 +1,20 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.838 ms  0.829 ms  0.821 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.495 ms  1.360 ms  1.436 ms
+ 3  38.140.148.73 (38.140.148.73)  1.903 ms  1.958 ms  1.944 ms
+ 4  be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.155 ms be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.194 ms  2.141 ms
+ 5  be2137.rcr52.bwi01.atlas.cogentco.com (154.54.83.62)  4.494 ms  4.804 ms be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.633 ms
+ 6  be2131.ccr41.dca01.atlas.cogentco.com (154.54.82.101)  5.995 ms be2132.ccr42.dca01.atlas.cogentco.com (154.54.82.229)  6.000 ms  6.076 ms
+ 7  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  16.862 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  16.952 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  16.901 ms
+ 8  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.211 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.298 ms  31.452 ms
+ 9  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.344 ms  39.383 ms be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  39.080 ms
+10  be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.311 ms be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  38.986 ms be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.139 ms
+11  38.140.240.90 (38.140.240.90)  38.880 ms  38.958 ms 38.104.176.154 (38.104.176.154)  38.959 ms
+12  201-174-252-158.transtelco.net (201.174.252.158)  55.066 ms 201-174-251-1.transtelco.net (201.174.251.1)  59.491 ms 201-174-252-158.transtelco.net (201.174.252.158)  55.132 ms
+13  201-174-250-170.transtelco.net (201.174.250.170)  75.234 ms 201-174-255-215.transtelco.net (201.174.255.215)  73.572 ms 201-174-255-213.transtelco.net (201.174.255.213)  73.564 ms
+14  201-174-145-14.transtelco.net (201.174.145.14)  61.058 ms  59.325 ms  59.376 ms
+15  * * *
+16  * * *
+17  fixed-187-190-3-18.totalplay.net (187.190.3.18)  67.468 ms  68.962 ms  67.305 ms
+18  148.206.190.1 (148.206.190.1)  66.956 ms * *
+19  pl-dccd-01.cua.uam.mx (148.206.185.33)  66.862 ms  66.957 ms  68.551 ms
