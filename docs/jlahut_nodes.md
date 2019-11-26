@@ -49,17 +49,3 @@
 | planetlab1.fri.uni-lj.si              | Slovenia                  |
 | planetlab-2.fhi-fokus.de              | Germany                   |
 | planetlab5.goto.info.waseda.ac.jp     | Japan                     |
-
-# Active Nodes
-
-| URL                     | Country | Node ID |
-| ----------------------- | ------- | :-----: |
-| planetlab2.citadel.edu  | US      |    1    |
-| planetlab2.c3sl.ufpr.br | Brazil  |    2    |
-
-
-# Nodes in communication
-### Each of these nodes are set to have bi-directional communication with each other
-| URL                    | Country | Node ID | URL                     | Country | Node ID |
-| ---------------------- | ------- | :-----: | ----------------------- | ------- | :-----: |
-| planetlab2.citadel.edu | US      |    1    | planetlab2.c3sl.ufpr.br | Brazil  |    2    |
