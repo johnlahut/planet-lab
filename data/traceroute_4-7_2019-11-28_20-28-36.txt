@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.186 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.030 ms  1.076 ms  1.143 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.487 ms  0.695 ms  0.577 ms
+ 4  10.101.83.233 (10.101.83.233)  2.236 ms  2.303 ms  2.449 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.372 ms  1.374 ms  1.360 ms
+ 6  201-174-251-225.transtelco.net (201.174.251.225)  1.548 ms  1.455 ms  1.452 ms
+ 7  201-174-255-152.transtelco.net (201.174.255.152)  26.929 ms  26.948 ms  26.937 ms
+ 8  201-174-254-140.transtelco.net (201.174.254.140)  41.897 ms  41.864 ms 201-174-252-234.transtelco.net (201.174.252.234)  42.028 ms
+ 9  be4967.ccr21.elp01.atlas.cogentco.com (38.104.193.201)  38.200 ms  38.216 ms  38.210 ms
+10  be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  42.165 ms be2928.ccr42.iah01.atlas.cogentco.com (154.54.30.161)  42.040 ms be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  41.966 ms
+11  be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  56.388 ms be2690.ccr42.atl01.atlas.cogentco.com (154.54.28.129)  56.044 ms  56.237 ms
+12  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  67.031 ms be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  66.801 ms  67.038 ms
+13  be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  68.483 ms  68.447 ms  68.431 ms
+14  be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  71.587 ms be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  71.468 ms  71.471 ms
+15  be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  71.643 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  71.618 ms  71.538 ms
+16  38.140.148.75 (38.140.148.75)  71.401 ms 38.140.148.74 (38.140.148.74)  71.968 ms  71.273 ms
+17  155.247.119.90 (155.247.119.90)  72.078 ms  71.947 ms  72.015 ms
+18  planetlab1.temple.edu (129.32.84.160)  72.278 ms  72.290 ms  72.188 ms

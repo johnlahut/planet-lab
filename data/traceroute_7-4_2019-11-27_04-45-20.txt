@@ -1,0 +1,26 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.771 ms  0.838 ms  0.807 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.455 ms  1.416 ms  1.398 ms
+ 3  50-207-243-129-static.hfc.comcastbusiness.net (50.207.243.129)  1.304 ms  1.328 ms  1.267 ms
+ 4  96.108.180.213 (96.108.180.213)  1.922 ms ae-0-0-sur02.fairmountave.pa.panjde.comcast.net (68.85.192.105)  1.436 ms  1.395 ms
+ 5  96.108.180.217 (96.108.180.217)  1.813 ms 96.108.180.230 (96.108.180.230)  1.785 ms 96.108.180.217 (96.108.180.217)  1.782 ms
+ 6  68.85.158.85 (68.85.158.85)  4.672 ms  4.645 ms  4.756 ms
+ 7  be-201-ar03.ivyland.pa.panjde.comcast.net (96.108.181.21)  7.688 ms  7.559 ms  7.770 ms
+ 8  be-33287-cr01.newark.nj.ibone.comcast.net (68.86.93.173)  10.716 ms  11.393 ms  11.396 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  10.452 ms  10.430 ms  10.435 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  9.331 ms  9.425 ms  9.356 ms
+11  nyk-b5-link.telia.net (62.115.148.44)  7.118 ms  7.582 ms  7.684 ms
+12  * * nyk-bb2-link.telia.net (80.91.254.15)  46.515 ms
+13  ash-bb4-link.telia.net (62.115.136.201)  46.505 ms * *
+14  atl-b22-link.telia.net (62.115.125.191)  23.190 ms *  23.157 ms
+15  * atl-b24-link.telia.net (62.115.113.25)  22.631 ms  24.405 ms
+16  hou-b1-link.telia.net (62.115.116.46)  37.043 ms  36.959 ms  40.012 ms
+17  mdc-b1-link.telia.net (62.115.114.255)  44.443 ms  46.469 ms  46.468 ms
+18  dls-b21-link.telia.net (62.115.113.85)  45.369 ms transtelco-ic-335354-mdc-b1.c.telia.net (213.248.83.127)  46.165 ms dls-b21-link.telia.net (62.115.113.85)  45.357 ms
+19  201-174-252-158.transtelco.net (201.174.252.158)  62.235 ms  60.285 ms  60.171 ms
+20  201-174-244-133.transtelco.net (201.174.244.133)  78.402 ms 201-174-251-125.transtelco.net (201.174.251.125)  76.290 ms transtelco-ic-335354-mdc-b1.c.telia.net (213.248.83.127)  48.944 ms
+21  201-174-87-186.transtelco.net (201.174.87.186)  92.129 ms 201-174-252-158.transtelco.net (201.174.252.158)  67.279 ms 201-174-87-186.transtelco.net (201.174.87.186)  90.934 ms
+22  * * *
+23  fixed-187-190-3-18.totalplay.net (187.190.3.18)  77.735 ms  80.163 ms  79.965 ms
+24  148.206.190.1 (148.206.190.1)  77.347 ms * *
+25  pl-dccd-01.cua.uam.mx (148.206.185.33)  77.448 ms  77.452 ms  77.321 ms

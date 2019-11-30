@@ -1,0 +1,17 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.185 ms  1.441 ms  1.645 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  106.976 ms  106.991 ms  106.979 ms
+ 3  xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.423 ms  0.438 ms  0.432 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.725 ms ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  0.729 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.512 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.920 ms  1.835 ms  1.862 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.834 ms  1.750 ms  1.721 ms
+ 7  163.253.5.16 (163.253.5.16)  2.421 ms  2.315 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.751 ms
+ 8  163.253.5.16 (163.253.5.16)  2.146 ms  2.416 ms  2.401 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.523 ms  5.282 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.156 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.138 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.185 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.015 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.482 ms 150.99.92.4 (150.99.92.4)  168.619 ms  168.218 ms
+12  150.99.92.4 (150.99.92.4)  168.271 ms  168.283 ms 150.99.91.222 (150.99.91.222)  163.043 ms
+13  150.99.91.222 (150.99.91.222)  163.104 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.397 ms  163.360 ms
+14  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  164.397 ms  163.978 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.361 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  164.631 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.665 ms  163.613 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.629 ms  163.849 ms planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.332 ms

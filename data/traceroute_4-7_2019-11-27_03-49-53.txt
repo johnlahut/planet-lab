@@ -1,0 +1,21 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.179 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.137 ms  1.269 ms  1.167 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.481 ms  0.586 ms  0.702 ms
+ 4  10.101.83.233 (10.101.83.233)  2.404 ms  2.292 ms  2.329 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.502 ms  1.482 ms  1.478 ms
+ 6  201-174-251-225.transtelco.net (201.174.251.225)  1.650 ms  1.533 ms  1.499 ms
+ 7  201-174-255-152.transtelco.net (201.174.255.152)  27.320 ms  27.339 ms  27.333 ms
+ 8  ae20.dallas2.dal.seabone.net (89.221.40.136)  28.739 ms  28.732 ms  28.713 ms
+ 9  te-0-11-0-3-0-pe03.1950stemmons.tx.ibone.comcast.net (173.167.57.145)  28.644 ms  28.606 ms  28.631 ms
+10  be-12495-cr02.dallas.tx.ibone.comcast.net (68.86.85.193)  30.182 ms  31.320 ms  30.136 ms
+11  be-12324-cr01.houston.tx.ibone.comcast.net (68.86.84.109)  31.556 ms  31.551 ms  31.936 ms
+12  be-11423-cr02.56marietta.ga.ibone.comcast.net (68.86.85.21)  47.610 ms  47.620 ms  46.362 ms
+13  be-10114-cr02.ashburn.va.ibone.comcast.net (68.86.85.9)  63.787 ms  63.794 ms  63.763 ms
+14  be-7922-ar03.newcastle.de.panjde.comcast.net (68.86.94.250)  64.975 ms  65.024 ms  64.839 ms
+15  96.108.181.114 (96.108.181.114)  64.886 ms  64.681 ms  64.641 ms
+16  68.86.153.126 (68.86.153.126)  69.582 ms  69.399 ms  69.336 ms
+17  96.108.180.214 (96.108.180.214)  66.430 ms  66.444 ms  66.343 ms
+18  50-207-243-130-static.hfc.comcastbusiness.net (50.207.243.130)  64.455 ms  64.418 ms  64.315 ms
+19  155.247.119.90 (155.247.119.90)  65.263 ms  65.258 ms  65.202 ms
+20  planetlab1.temple.edu (129.32.84.160)  67.458 ms  67.386 ms  67.548 ms

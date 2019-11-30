@@ -1,0 +1,17 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.198 ms  1.664 ms  2.565 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  12.427 ms  12.443 ms  12.430 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.426 ms  0.415 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.345 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.362 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  0.525 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.541 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.123 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  2.865 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.094 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.835 ms  1.839 ms  1.795 ms
+ 7  163.253.5.16 (163.253.5.16)  1.803 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.775 ms 163.253.5.16 (163.253.5.16)  1.824 ms
+ 8  163.253.5.16 (163.253.5.16)  1.804 ms  1.779 ms  2.149 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  6.878 ms  6.694 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.085 ms
+10  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.306 ms  65.299 ms  65.287 ms
+11  150.99.92.4 (150.99.92.4)  163.001 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.614 ms 150.99.92.4 (150.99.92.4)  163.216 ms
+12  150.99.92.4 (150.99.92.4)  163.189 ms 150.99.91.222 (150.99.91.222)  163.194 ms 150.99.92.4 (150.99.92.4)  163.089 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.355 ms  163.279 ms 150.99.91.222 (150.99.91.222)  163.226 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  163.361 ms  163.289 ms  163.385 ms
+15  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.625 ms  163.591 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  176.077 ms
+16  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.698 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  164.069 ms  163.759 ms

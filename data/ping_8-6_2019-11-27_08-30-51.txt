@@ -1,0 +1,25 @@
+PING planetlab2.ie.cuhk.edu.hk (103.49.160.132) 56(84) bytes of data.
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=1 ttl=50 time=426 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=2 ttl=50 time=476 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=3 ttl=50 time=618 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=4 ttl=50 time=480 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=5 ttl=50 time=358 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=6 ttl=50 time=392 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=7 ttl=50 time=1636 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=8 ttl=50 time=4012 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=9 ttl=50 time=3173 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=10 ttl=50 time=2023 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=11 ttl=50 time=1006 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=12 ttl=50 time=475 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=13 ttl=50 time=445 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=14 ttl=50 time=359 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=15 ttl=50 time=811 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=16 ttl=50 time=407 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=17 ttl=50 time=530 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=18 ttl=50 time=456 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=19 ttl=50 time=1220 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=20 ttl=50 time=380 ms
+
+--- planetlab2.ie.cuhk.edu.hk ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 26282ms
+rtt min/avg/max/mdev = 358.774/984.618/4012.278/984.134 ms, pipe 4

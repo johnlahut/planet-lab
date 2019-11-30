@@ -1,0 +1,23 @@
+PING planetlab2.ie.cuhk.edu.hk (103.49.160.132) 56(84) bytes of data.
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=1 ttl=50 time=402 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=2 ttl=50 time=411 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=3 ttl=50 time=408 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=4 ttl=50 time=416 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=5 ttl=50 time=558 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=6 ttl=50 time=475 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=7 ttl=50 time=875 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=8 ttl=50 time=509 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=10 ttl=50 time=398 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=11 ttl=50 time=446 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=12 ttl=50 time=497 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=13 ttl=50 time=445 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=14 ttl=50 time=424 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=16 ttl=50 time=414 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=17 ttl=50 time=437 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=18 ttl=50 time=450 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=19 ttl=50 time=478 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=20 ttl=50 time=370 ms
+
+--- planetlab2.ie.cuhk.edu.hk ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 22063ms
+rtt min/avg/max/mdev = 370.770/467.900/875.380/108.524 ms

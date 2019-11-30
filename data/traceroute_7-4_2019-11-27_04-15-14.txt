@@ -1,0 +1,26 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.875 ms  0.829 ms  0.800 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.338 ms  44.682 ms  44.656 ms
+ 3  50-207-243-129-static.hfc.comcastbusiness.net (50.207.243.129)  1.250 ms  1.249 ms  1.339 ms
+ 4  ae-0-0-sur02.fairmountave.pa.panjde.comcast.net (68.85.192.105)  1.357 ms  1.461 ms  1.379 ms
+ 5  96.108.180.230 (96.108.180.230)  12.620 ms  12.621 ms 96.108.180.217 (96.108.180.217)  12.647 ms
+ 6  68.85.158.85 (68.85.158.85)  4.623 ms  4.578 ms  4.595 ms
+ 7  be-201-ar03.ivyland.pa.panjde.comcast.net (96.108.181.21)  7.191 ms  7.309 ms  7.238 ms
+ 8  be-33287-cr01.newark.nj.ibone.comcast.net (68.86.93.173)  11.276 ms  11.261 ms  11.236 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  10.177 ms  10.149 ms  11.412 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  9.541 ms  9.522 ms  9.419 ms
+11  nyk-b5-link.telia.net (62.115.148.44)  7.053 ms  6.863 ms  7.066 ms
+12  nyk-bb3-link.telia.net (62.115.115.0)  44.618 ms  44.616 ms  44.584 ms
+13  ash-bb4-link.telia.net (62.115.136.201)  46.670 ms ash-bb3-link.telia.net (62.115.141.244)  44.590 ms ash-bb4-link.telia.net (62.115.136.201)  46.602 ms
+14  atl-b22-link.telia.net (62.115.125.128)  25.364 ms atl-b22-link.telia.net (62.115.125.191)  23.078 ms atl-b22-link.telia.net (62.115.125.128)  24.346 ms
+15  atl-b24-link.telia.net (62.115.113.25)  22.323 ms  22.322 ms  24.251 ms
+16  hou-b1-link.telia.net (62.115.116.46)  37.217 ms  37.488 ms  39.292 ms
+17  mdc-b1-link.telia.net (62.115.114.255)  44.361 ms  44.331 ms  46.429 ms
+18  transtelco-ic-335354-mdc-b1.c.telia.net (213.248.83.127)  46.167 ms  44.187 ms  44.032 ms
+19  mdc-b1-link.telia.net (62.115.121.132)  58.139 ms 201-174-252-158.transtelco.net (201.174.252.158)  62.851 ms  60.249 ms
+20  201-174-251-125.transtelco.net (201.174.251.125)  78.456 ms  76.306 ms  76.401 ms
+21  201-174-87-186.transtelco.net (201.174.87.186)  77.374 ms  77.541 ms  79.284 ms
+22  * * *
+23  fixed-187-190-3-18.totalplay.net (187.190.3.18)  78.177 ms  78.558 ms  78.438 ms
+24  * 148.206.190.1 (148.206.190.1)  77.615 ms *
+25  pl-dccd-01.cua.uam.mx (148.206.185.33)  77.300 ms fixed-187-190-3-18.totalplay.net (187.190.3.18)  84.991 ms pl-dccd-01.cua.uam.mx (148.206.185.33)  79.416 ms

@@ -1,0 +1,17 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.525 ms  1.706 ms  2.480 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  14.799 ms  14.815 ms  14.802 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.434 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.459 ms  0.491 ms
+ 4  ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.622 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  0.633 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.452 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  1.291 ms  1.272 ms  1.257 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.403 ms  2.993 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  3.113 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  3.083 ms 163.253.5.16 (163.253.5.16)  3.172 ms  2.990 ms
+ 8  163.253.5.16 (163.253.5.16)  3.030 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  6.001 ms 163.253.5.16 (163.253.5.16)  1.711 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.410 ms  5.429 ms  5.499 ms
+10  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.146 ms  65.273 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.052 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.161 ms 150.99.92.4 (150.99.92.4)  162.991 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.169 ms
+12  150.99.92.4 (150.99.92.4)  162.908 ms 150.99.91.222 (150.99.91.222)  163.434 ms  163.040 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.315 ms  163.310 ms 150.99.91.222 (150.99.91.222)  163.438 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  163.610 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  163.880 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.317 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  163.738 ms  163.761 ms  163.940 ms
+16  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.526 ms  163.548 ms  163.528 ms

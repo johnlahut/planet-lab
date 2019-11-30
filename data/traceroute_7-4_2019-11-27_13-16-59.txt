@@ -1,0 +1,19 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.854 ms  0.845 ms  0.823 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.446 ms  1.435 ms  1.390 ms
+ 3  38.140.148.73 (38.140.148.73)  1.925 ms  1.915 ms  1.952 ms
+ 4  be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.219 ms  2.146 ms be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.016 ms
+ 5  be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.671 ms be2137.rcr52.bwi01.atlas.cogentco.com (154.54.83.62)  4.453 ms be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.572 ms
+ 6  be2132.ccr42.dca01.atlas.cogentco.com (154.54.82.229)  6.021 ms  5.903 ms  5.874 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  17.190 ms  17.220 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  17.033 ms
+ 8  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.570 ms  31.377 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.323 ms
+ 9  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.328 ms be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  38.909 ms be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.285 ms
+10  be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.213 ms be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.161 ms  39.121 ms
+11  38.104.176.154 (38.104.176.154)  38.903 ms 38.140.240.90 (38.140.240.90)  38.917 ms 38.104.176.154 (38.104.176.154)  38.850 ms
+12  201-174-252-158.transtelco.net (201.174.252.158)  54.985 ms  55.007 ms  55.028 ms
+13  201-174-244-133.transtelco.net (201.174.244.133)  71.001 ms  71.149 ms 201-174-251-125.transtelco.net (201.174.251.125)  71.072 ms
+14  201-174-87-186.transtelco.net (201.174.87.186)  72.385 ms  72.452 ms  72.588 ms
+15  * * *
+16  fixed-187-190-3-18.totalplay.net (187.190.3.18)  73.237 ms  72.957 ms  73.085 ms
+17  148.206.190.1 (148.206.190.1)  72.103 ms * *
+18  pl-dccd-01.cua.uam.mx (148.206.185.33)  72.149 ms  72.147 ms  72.193 ms

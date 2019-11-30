@@ -1,0 +1,25 @@
+PING planetlab2.ie.cuhk.edu.hk (103.49.160.132) 56(84) bytes of data.
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=1 ttl=50 time=395 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=2 ttl=50 time=480 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=3 ttl=50 time=361 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=4 ttl=50 time=556 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=5 ttl=50 time=394 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=6 ttl=50 time=576 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=7 ttl=50 time=347 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=8 ttl=50 time=532 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=9 ttl=50 time=353 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=10 ttl=50 time=418 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=11 ttl=50 time=460 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=12 ttl=50 time=384 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=13 ttl=50 time=536 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=14 ttl=50 time=459 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=15 ttl=50 time=449 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=16 ttl=50 time=335 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=17 ttl=50 time=262 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=18 ttl=50 time=266 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=19 ttl=50 time=401 ms
+64 bytes from planetlab2.ie.cuhk.edu.hk (103.49.160.132): icmp_seq=20 ttl=50 time=368 ms
+
+--- planetlab2.ie.cuhk.edu.hk ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19662ms
+rtt min/avg/max/mdev = 262.742/417.061/576.458/86.777 ms
