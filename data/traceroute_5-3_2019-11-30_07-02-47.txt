@@ -1,0 +1,17 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.137 ms  1.403 ms  1.653 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  14.647 ms  14.664 ms  14.652 ms
+ 3  xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.577 ms xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.584 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.561 ms
+ 4  ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.735 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  0.687 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  0.713 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  3.043 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.858 ms  0.852 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  2.007 ms  1.914 ms  1.907 ms
+ 7  163.253.5.16 (163.253.5.16)  1.895 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.772 ms 163.253.5.16 (163.253.5.16)  1.746 ms
+ 8  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.426 ms  5.305 ms 163.253.5.16 (163.253.5.16)  1.767 ms
+ 9  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.409 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.666 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.353 ms
+10  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.287 ms  65.152 ms  65.118 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.253 ms  65.233 ms  65.207 ms
+12  150.99.91.222 (150.99.91.222)  163.199 ms  163.381 ms 150.99.92.4 (150.99.92.4)  163.201 ms
+13  150.99.91.222 (150.99.91.222)  163.294 ms  163.864 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.321 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  163.281 ms  163.312 ms  163.293 ms
+15  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.718 ms  163.939 ms  164.228 ms
+16  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.339 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  164.370 ms  164.579 ms

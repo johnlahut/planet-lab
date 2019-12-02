@@ -1,0 +1,21 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.846 ms  0.832 ms  0.844 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.488 ms  1.337 ms  1.486 ms
+ 3  38.140.148.73 (38.140.148.73)  2.333 ms  2.282 ms  2.348 ms
+ 4  be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.100 ms be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.178 ms  2.150 ms
+ 5  be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.538 ms  4.717 ms  4.699 ms
+ 6  be2132.ccr42.dca01.atlas.cogentco.com (154.54.82.229)  6.037 ms  6.005 ms  6.074 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  16.969 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  17.232 ms  17.231 ms
+ 8  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.320 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.350 ms  31.358 ms
+ 9  be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  38.941 ms  39.121 ms be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.036 ms
+10  be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.517 ms  39.137 ms be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.127 ms
+11  38.140.240.90 (38.140.240.90)  38.878 ms 38.104.176.154 (38.104.176.154)  38.876 ms  39.008 ms
+12  201-174-251-22.transtelco.net (201.174.251.22)  58.564 ms 201-174-250-90.transtelco.net (201.174.250.90)  55.899 ms  55.843 ms
+13  ustex-dal-eqx.transtelco.net (201.174.253.2)  58.491 ms  56.833 ms  58.501 ms
+14  201-174-255-153.transtelco.net (201.174.255.153)  83.984 ms  83.948 ms  81.357 ms
+15  201-174-251-224.transtelco.net (201.174.251.224)  81.424 ms  81.422 ms  84.076 ms
+16  201-174-87-186.transtelco.net (201.174.87.186)  83.334 ms  82.569 ms  84.847 ms
+17  * * *
+18  fixed-187-190-3-18.totalplay.net (187.190.3.18)  85.718 ms  85.756 ms  83.101 ms
+19  148.206.190.1 (148.206.190.1)  83.585 ms * *
+20  pl-dccd-01.cua.uam.mx (148.206.185.33)  85.139 ms  82.556 ms  84.962 ms
