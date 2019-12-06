@@ -1,0 +1,1 @@
+traceroute to planetlab2.c3sl.ufpr.br (2801:82:80ff:8009:215:17ff:fe5f:8b78), 30 hops max, 80 byte packets

@@ -1,0 +1,5 @@
+PING pl-dccd-01.cua.uam.mx (148.206.185.33) 56(84) bytes of data.
+
+--- pl-dccd-01.cua.uam.mx ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19000ms
+

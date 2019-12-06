@@ -1,0 +1,22 @@
+traceroute to planetlab2.ie.cuhk.edu.hk (103.49.160.132), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  54.973 ms  55.173 ms  55.728 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  55.902 ms  139.765 ms  111.881 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  84.305 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  56.145 ms  84.803 ms
+ 4  ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  56.765 ms ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  56.131 ms  84.011 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  55.886 ms  56.098 ms  56.069 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  56.253 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  56.067 ms  55.877 ms
+ 7  163.253.5.16 (163.253.5.16)  55.805 ms  56.089 ms  56.216 ms
+ 8  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  84.856 ms  56.183 ms 163.253.5.16 (163.253.5.16)  55.959 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  55.903 ms  56.117 ms ae-0.4079.rtsw2.ashb.net.internet2.edu (162.252.70.137)  56.154 ms
+10  ae-2.4079.rtsw.ashb.net.internet2.edu (162.252.70.74)  83.917 ms ae-0.4079.rtsw2.ashb.net.internet2.edu (162.252.70.137)  56.018 ms  112.883 ms
+11  ae-2.4079.rtsw.ashb.net.internet2.edu (162.252.70.74)  55.899 ms  55.322 ms  55.269 ms
+12  ae-3.4079.rtsw3.eqch.net.internet2.edu (162.252.70.131)  209.146 ms ae-20.4079.rtsw.clev.net.internet2.edu (162.252.70.129)  331.347 ms  245.366 ms
+13  ae-5.4079.rtsw.eqch.net.internet2.edu (162.252.70.162)  172.020 ms ae-3.4079.rtsw3.eqch.net.internet2.edu (162.252.70.131)  84.869 ms ae-5.4079.rtsw.eqch.net.internet2.edu (162.252.70.162)  55.269 ms
+14  ae-5.4079.rtsw.eqch.net.internet2.edu (162.252.70.162)  55.926 ms  112.530 ms ae-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  112.040 ms
+15  ae-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  110.875 ms  83.478 ms  84.218 ms
+16  207.231.240.24 (207.231.240.24)  111.389 ms  111.486 ms  112.090 ms
+17  192.203.115.130 (192.203.115.130)  197.490 ms  197.643 ms  197.566 ms
+18  203.181.194.179 (203.181.194.179)  253.107 ms  238.859 ms 192.203.115.130 (192.203.115.130)  196.628 ms
+19  cuhk2-10g.hkix.net (123.255.91.50)  316.199 ms 203.181.194.179 (203.181.194.179)  259.810 ms cuhk2-10g.hkix.net (123.255.91.50)  316.269 ms
+20  cuhk2-10g.hkix.net (123.255.91.50)  288.318 ms 137.189.192.225 (137.189.192.225)  260.082 ms cuhk2-10g.hkix.net (123.255.91.50)  280.977 ms
+21  planetlab2.ie.cuhk.edu.hk (103.49.160.132)  253.405 ms  253.261 ms  253.364 ms

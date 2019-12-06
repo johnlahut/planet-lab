@@ -1,0 +1,22 @@
+PING planetlab1.temple.edu (129.32.84.160) 56(84) bytes of data.
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=1 ttl=47 time=320 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=2 ttl=47 time=369 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=3 ttl=47 time=304 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=4 ttl=47 time=325 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=5 ttl=47 time=340 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=6 ttl=47 time=313 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=7 ttl=47 time=354 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=8 ttl=47 time=320 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=9 ttl=47 time=327 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=12 ttl=47 time=317 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=13 ttl=47 time=325 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=14 ttl=47 time=325 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=15 ttl=47 time=335 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=16 ttl=47 time=318 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=18 ttl=47 time=363 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=19 ttl=47 time=284 ms
+64 bytes from planetlab1.temple.edu (129.32.84.160): icmp_seq=20 ttl=47 time=300 ms
+
+--- planetlab1.temple.edu ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19019ms
+rtt min/avg/max/mdev = 284.719/326.263/369.608/21.082 ms

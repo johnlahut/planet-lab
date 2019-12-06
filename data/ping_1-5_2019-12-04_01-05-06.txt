@@ -1,0 +1,21 @@
+PING planetlab3.rutgers.edu (165.230.49.118) 56(84) bytes of data.
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=3 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=4 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=6 ttl=51 time=26.1 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=7 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=8 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=9 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=10 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=11 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=12 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=13 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=15 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=16 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=17 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=18 ttl=51 time=25.9 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=19 ttl=51 time=26.0 ms
+64 bytes from planetlab3.rutgers.edu (165.230.49.118): icmp_seq=20 ttl=51 time=26.0 ms
+
+--- planetlab3.rutgers.edu ping statistics ---
+20 packets transmitted, 16 received, 20% packet loss, time 19002ms
+rtt min/avg/max/mdev = 25.942/26.025/26.188/0.197 ms

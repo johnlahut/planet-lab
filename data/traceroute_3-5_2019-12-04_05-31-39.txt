@@ -1,0 +1,21 @@
+traceroute to planetlab3.rutgers.edu (165.230.49.118), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.510 ms  0.726 ms  0.933 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.904 ms  1.395 ms  1.826 ms
+ 3  133.9.77.62 (133.9.77.62)  0.322 ms  0.324 ms  0.313 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.715 ms  0.698 ms  0.729 ms
+ 5  tokyo1-GM-AE0-100.s5.sinet.ad.jp (150.99.64.29)  0.684 ms  0.652 ms  0.662 ms
+ 6  ae-25.a02.tokyjp05.jp.bb.gin.ntt.net (61.213.145.221)  3.945 ms  1.992 ms  1.962 ms
+ 7  ae-4.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.6.188)  0.974 ms  1.146 ms ae-25.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.182)  0.869 ms
+ 8  * * *
+ 9  ae-4.r23.snjsca04.us.bb.gin.ntt.net (129.250.5.78)  107.719 ms  107.685 ms  104.160 ms
+10  ae-45.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.175)  100.699 ms ae-22.r04.sttlwa01.us.bb.gin.ntt.net (129.250.2.8)  89.266 ms ae-2.r00.lsanca07.us.bb.gin.ntt.net (129.250.3.238)  109.153 ms
+11  sjo-b21-link.telia.net (62.115.12.52)  115.551 ms sea-b2-link.telia.net (213.248.70.12)  99.097 ms sjo-b21-link.telia.net (62.115.12.52)  116.015 ms
+12  chi-b21-link.telia.net (62.115.117.49)  141.506 ms nyk-bb2-link.telia.net (62.115.119.228)  175.971 ms  175.920 ms
+13  phm-b1-link.telia.net (62.115.124.224)  166.660 ms nyk-bb2-link.telia.net (62.115.137.58)  156.058 ms phm-b1-link.telia.net (62.115.124.224)  165.172 ms
+14  rutgers-ic-338849-phm-b1.c.telia.net (213.248.68.155)  175.587 ms phm-b1-link.telia.net (62.115.113.31)  164.056 ms rutgers-ic-338849-phm-b1.c.telia.net (213.248.68.155)  178.878 ms
+15  * * rutgers-ic-338849-phm-b1.c.telia.net (213.248.68.155)  166.573 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  planetlab3.rutgers.edu (165.230.49.118)  178.347 ms  173.024 ms  178.331 ms

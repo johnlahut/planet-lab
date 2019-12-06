@@ -1,0 +1,15 @@
+traceroute to planetlab3.rutgers.edu (165.230.49.118), 30 hops max, 60 byte packets
+ 1  155.225.2.65 (155.225.2.65)  0.510 ms  0.463 ms  0.416 ms
+ 2  155.225.2.10 (155.225.2.10)  0.645 ms  0.800 ms  0.951 ms
+ 3  155.225.2.34 (155.225.2.34)  0.733 ms  0.757 ms  0.760 ms
+ 4  205-186-224-49.generic.sclightrail.net (205.186.224.49)  19.724 ms  19.707 ms  19.688 ms
+ 5  205-186-224-50.generic.sclightrail.net (205.186.224.50)  13.380 ms  13.367 ms  13.514 ms
+ 6  ae-1.4079.rtsw.wash.net.internet2.edu (162.252.70.121)  18.794 ms  18.805 ms  18.736 ms
+ 7  et-9-1-0.4079.rtsw.phil.net.internet2.edu (162.252.70.118)  21.767 ms  21.879 ms  21.849 ms
+ 8  163.253.5.17 (163.253.5.17)  21.946 ms  21.945 ms  21.926 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  planetlab3.rutgers.edu (165.230.49.118)  23.224 ms  23.326 ms  23.288 ms

@@ -1,0 +1,19 @@
+PING planetlab2.citadel.edu (155.225.2.72) 56(84) bytes of data.
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=1 ttl=50 time=25.9 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=2 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=3 ttl=50 time=25.9 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=4 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=5 ttl=50 time=25.8 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=6 ttl=50 time=25.9 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=7 ttl=50 time=25.9 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=9 ttl=50 time=25.8 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=10 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=12 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=16 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=17 ttl=50 time=25.9 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=18 ttl=50 time=26.0 ms
+64 bytes from planetlab2.citadel.edu (155.225.2.72): icmp_seq=20 ttl=50 time=25.9 ms
+
+--- planetlab2.citadel.edu ping statistics ---
+20 packets transmitted, 14 received, 30% packet loss, time 19016ms
+rtt min/avg/max/mdev = 25.857/25.987/26.099/0.064 ms
