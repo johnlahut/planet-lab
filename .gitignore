@@ -2,3 +2,6 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 .vscode/
+analysis/Imaging-1.1.7/
+analysis/PyGeoIpMap/
+analysis/basemap-1.1.0/
