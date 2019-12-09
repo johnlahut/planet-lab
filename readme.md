@@ -1,10 +1,15 @@
 # CSI 516 - Computer Communication Networks
 
+## Class Specific
+
 ## Structure
 - `scripts/` - Project wide scripts that are general purpose
 - `data/` - Data files; once data is cleaned and placed into the standard format, results should go here
 - `docs/` - Project wide documentation (final report, working docs, etc...)
 - `analysis/` - Data analysis
+- #### Class Specific
+  - `docs/final_report.pdf` - Written final report 
+  - `docs/notebook.html` - Jupyter notebook exported as a web page. No need for installation of Jupyter for read-only purposes.
 
 ## Cleaned data format
 - All active nodes should be updated and maintained in the `active_nodes.md` file. This will allow us to uniquely identify each node, and ensure that we do not confuse files when it comes time to merge all the data together.
