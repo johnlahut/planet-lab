@@ -1,0 +1,20 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.795 ms  0.814 ms  0.798 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.310 ms  2.264 ms  2.259 ms
+ 3  38.140.148.73 (38.140.148.73)  1.950 ms  1.881 ms  1.977 ms
+ 4  be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.105 ms be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.188 ms be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.092 ms
+ 5  be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.593 ms be2137.rcr52.bwi01.atlas.cogentco.com (154.54.83.62)  4.453 ms be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.613 ms
+ 6  be2131.ccr41.dca01.atlas.cogentco.com (154.54.82.101)  6.134 ms  6.028 ms  6.076 ms
+ 7  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  16.847 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  17.123 ms  17.226 ms
+ 8  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.343 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.458 ms  31.568 ms
+ 9  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.011 ms be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  39.223 ms be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.274 ms
+10  be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.338 ms be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.586 ms  39.612 ms
+11  38.104.176.154 (38.104.176.154)  39.063 ms  39.065 ms  39.100 ms
+12  201-174-252-158.transtelco.net (201.174.252.158)  55.035 ms  55.044 ms  55.028 ms
+13  201-174-250-170.transtelco.net (201.174.250.170)  75.259 ms 201-174-250-165.transtelco.net (201.174.250.165)  75.317 ms 201-174-255-215.transtelco.net (201.174.255.215)  73.569 ms
+14  201-174-145-14.transtelco.net (201.174.145.14)  61.067 ms  61.144 ms  59.269 ms
+15  * * *
+16  * * *
+17  fixed-187-190-3-18.totalplay.net (187.190.3.18)  69.065 ms  69.267 ms  69.066 ms
+18  148.206.190.1 (148.206.190.1)  68.676 ms * *
+19  pl-dccd-01.cua.uam.mx (148.206.185.33)  68.625 ms  68.613 ms  66.865 ms

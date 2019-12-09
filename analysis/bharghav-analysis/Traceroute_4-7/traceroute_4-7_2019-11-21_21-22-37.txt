@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.192 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.116 ms  1.155 ms  1.238 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.512 ms  0.627 ms  0.744 ms
+ 4  10.101.83.233 (10.101.83.233)  2.134 ms  2.399 ms  2.206 ms
+ 5  10.180.200.172 (10.180.200.172)  9.410 ms  9.393 ms  9.482 ms
+ 6  * * *
+ 7  * * *
+ 8  be3110.ccr41.dfw03.atlas.cogentco.com (154.54.10.17)  36.454 ms  36.763 ms  36.470 ms
+ 9  be2764.ccr32.dfw01.atlas.cogentco.com (154.54.47.213)  38.679 ms be2763.ccr31.dfw01.atlas.cogentco.com (154.54.28.73)  36.762 ms be2764.ccr32.dfw01.atlas.cogentco.com (154.54.47.213)  38.646 ms
+10  be2441.ccr41.iah01.atlas.cogentco.com (154.54.41.65)  38.308 ms be2443.ccr42.iah01.atlas.cogentco.com (154.54.44.229)  36.882 ms be2441.ccr41.iah01.atlas.cogentco.com (154.54.41.65)  36.611 ms
+11  be2690.ccr42.atl01.atlas.cogentco.com (154.54.28.129)  52.389 ms  52.586 ms be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  52.656 ms
+12  be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  61.610 ms be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  63.409 ms  63.559 ms
+13  be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  63.537 ms be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  64.834 ms be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  63.169 ms
+14  be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  67.647 ms be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  66.092 ms be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  67.659 ms
+15  be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  66.285 ms be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  67.818 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  66.149 ms
+16  38.140.148.74 (38.140.148.74)  66.290 ms 38.140.148.75 (38.140.148.75)  67.788 ms  67.633 ms
+17  155.247.119.90 (155.247.119.90)  68.615 ms  68.498 ms  68.575 ms
+18  planetlab1.temple.edu (129.32.84.160)  68.716 ms  68.513 ms  68.707 ms

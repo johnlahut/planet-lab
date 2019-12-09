@@ -1,0 +1,17 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  2.485 ms  2.834 ms  3.061 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  15.344 ms  15.355 ms  15.343 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.531 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  1.039 ms  1.069 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.991 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  1.142 ms  1.149 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  1.213 ms  1.172 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.552 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.542 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.992 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.645 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.728 ms 163.253.5.16 (163.253.5.16)  2.578 ms  2.504 ms
+ 8  163.253.5.16 (163.253.5.16)  2.484 ms  2.408 ms  2.419 ms
+ 9  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.149 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.330 ms  5.372 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.085 ms  65.072 ms  65.067 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.455 ms  65.433 ms  65.547 ms
+12  150.99.92.4 (150.99.92.4)  163.326 ms * 150.99.91.222 (150.99.91.222)  164.467 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  164.513 ms 150.99.91.222 (150.99.91.222)  163.086 ms  163.034 ms
+14  waseda.gw.sinet.ad.jp (150.99.187.70)  163.238 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  173.638 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.491 ms
+15  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.581 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  175.206 ms  175.598 ms
+16  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.393 ms  163.405 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.725 ms

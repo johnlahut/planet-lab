@@ -1,0 +1,16 @@
+traceroute to planetlab1.rutgers.edu (165.230.49.114), 30 hops max, 60 byte packets
+ 1  103.49.160.140 (103.49.160.140)  0.335 ms  0.485 ms  0.588 ms
+ 2  csc0g04brb.net.cuhk.edu.hk (137.189.192.233)  0.231 ms  0.241 ms  0.401 ms
+ 3  cdc20711brb.net.cuhk.edu.hk (137.189.192.232)  0.306 ms  0.308 ms  0.464 ms
+ 4  103.43.31.14 (103.43.31.14)  1.572 ms  1.586 ms  1.588 ms
+ 5  103.43.32.11 (103.43.32.11)  1.492 ms  1.430 ms  1.481 ms
+ 6  et-9-3-0.966.rtsw.losa.net.internet2.edu (198.71.45.136)  201.344 ms  201.277 ms  178.931 ms
+ 7  ae-5.4079.rtsw.wash.net.internet2.edu (162.252.70.158)  234.777 ms  212.360 ms  250.771 ms
+ 8  et-7-0-0.4079.rtsw.phil.net.internet2.edu (162.252.70.118)  237.779 ms  237.755 ms  237.752 ms
+ 9  163.253.5.17 (163.253.5.17)  215.499 ms  237.709 ms  215.529 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  planetlab1.rutgers.edu (165.230.49.114)  270.287 ms  418.292 ms  500.580 ms

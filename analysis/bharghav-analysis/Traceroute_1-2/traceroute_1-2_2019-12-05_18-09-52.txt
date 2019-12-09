@@ -1,0 +1,16 @@
+traceroute to planetlab2.c3sl.ufpr.br (200.17.202.195), 30 hops max, 60 byte packets
+ 1  155.225.2.65 (155.225.2.65)  0.517 ms  0.497 ms  0.462 ms
+ 2  155.225.2.10 (155.225.2.10)  1.663 ms  1.818 ms  1.937 ms
+ 3  155.225.2.34 (155.225.2.34)  0.815 ms  0.802 ms  0.782 ms
+ 4  205-186-224-49.generic.sclightrail.net (205.186.224.49)  7.881 ms  7.841 ms  7.861 ms
+ 5  205-186-224-50.generic.sclightrail.net (205.186.224.50)  13.530 ms  13.495 ms  13.482 ms
+ 6  et-4-0-0.4079.rtsw.char.net.internet2.edu (162.252.70.122)  17.538 ms  17.300 ms  17.223 ms
+ 7  et-4-1-0.4079.rtsw.atla.net.internet2.edu (162.252.70.124)  21.720 ms  21.861 ms  21.872 ms
+ 8  et-3-0-0.4079.rtsw.jack.net.internet2.edu (162.252.70.43)  27.287 ms  27.277 ms  27.247 ms
+ 9  64.57.28.62 (64.57.28.62)  34.440 ms  34.405 ms  34.400 ms
+10  sp2-mia1-atl.bkb.rnp.br (200.143.255.90)  141.305 ms 170.79.213.18 (170.79.213.18)  99.755 ms sp2-mia1-atl.bkb.rnp.br (200.143.255.90)  142.710 ms
+11  pr-sp2-oi.bkb.rnp.br (200.143.252.62)  147.829 ms  147.795 ms ce2-ce.bkb.rnp.br (200.143.253.150)  99.893 ms
+12  rn-ce2-oi.bkb.rnp.br (200.143.252.137)  108.741 ms 200.143.254.130 (200.143.254.130)  147.798 ms  147.917 ms
+13  p2-v103-araucaria-lapa.pop-pr.rnp.br (200.238.139.10)  148.094 ms  148.339 ms  148.432 ms
+14  200.17.202.62 (200.17.202.62)  147.793 ms pb-pbjpa-oi.bkb.rnp.br (200.143.252.130)  111.690 ms  111.584 ms
+15  planetlab2.c3sl.ufpr.br (200.17.202.195)  147.838 ms  147.989 ms  147.942 ms

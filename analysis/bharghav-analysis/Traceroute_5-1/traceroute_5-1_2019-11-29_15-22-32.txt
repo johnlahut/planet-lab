@@ -1,0 +1,15 @@
+traceroute to planetlab2.citadel.edu (155.225.2.72), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.382 ms  1.639 ms  1.846 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  26.786 ms  26.797 ms  26.784 ms
+ 3  xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.442 ms xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.464 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.462 ms
+ 4  ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  0.609 ms ae11-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.9)  0.515 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.607 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.687 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.822 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.684 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.788 ms  1.826 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.990 ms
+ 7  163.253.5.16 (163.253.5.16)  2.296 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  2.083 ms 163.253.5.16 (163.253.5.16)  2.213 ms
+ 8  163.253.5.16 (163.253.5.16)  2.161 ms  2.082 ms  2.053 ms
+ 9  ae-1.4079.rtsw.rale.net.internet2.edu (162.252.70.120)  10.298 ms  10.251 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.337 ms
+10  205-186-224-49.generic.sclightrail.net (205.186.224.49)  15.708 ms ae-1.4079.rtsw.rale.net.internet2.edu (162.252.70.120)  10.153 ms 205-186-224-49.generic.sclightrail.net (205.186.224.49)  15.713 ms
+11  205-186-224-49.generic.sclightrail.net (205.186.224.49)  15.684 ms  15.679 ms  15.681 ms
+12  155.225.2.33 (155.225.2.33)  24.794 ms  24.961 ms 155.225.2.34 (155.225.2.34)  22.916 ms
+13  155.225.2.33 (155.225.2.33)  25.071 ms vpn.citadel.edu (155.225.2.9)  23.185 ms 155.225.2.33 (155.225.2.33)  22.952 ms
+14  planetlab2.citadel.edu (155.225.2.72)  23.271 ms  23.691 ms  23.227 ms

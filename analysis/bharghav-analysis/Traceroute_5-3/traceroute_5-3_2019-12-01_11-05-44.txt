@@ -1,0 +1,18 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.422 ms  1.673 ms  2.209 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  9.818 ms  9.831 ms  9.819 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.509 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.423 ms  0.421 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.528 ms ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  0.557 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.552 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  19.724 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  1.277 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  19.679 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  19.683 ms  19.448 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  2.069 ms
+ 7  163.253.5.16 (163.253.5.16)  7.904 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.977 ms  1.954 ms
+ 8  163.253.5.16 (163.253.5.16)  7.798 ms  6.364 ms  6.325 ms
+ 9  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.041 ms  65.054 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  7.205 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  64.992 ms  65.042 ms  65.710 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.407 ms  65.355 ms  65.342 ms
+12  150.99.91.222 (150.99.91.222)  163.278 ms  163.318 ms 150.99.92.4 (150.99.92.4)  163.008 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.333 ms  163.332 ms 150.99.91.222 (150.99.91.222)  163.511 ms
+14  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  171.616 ms  172.019 ms  176.356 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  175.345 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  164.011 ms  163.740 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.672 ms *  163.875 ms
+17  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.357 ms  163.461 ms  163.395 ms

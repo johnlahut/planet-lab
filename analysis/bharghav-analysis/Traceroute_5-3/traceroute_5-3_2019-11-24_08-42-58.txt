@@ -1,0 +1,18 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  0.958 ms  1.233 ms  1.444 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  16.319 ms  16.336 ms  16.323 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.436 ms  0.450 ms  0.444 ms
+ 4  ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  1.359 ms ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.479 ms ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  0.493 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  1.028 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.772 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  0.978 ms
+ 6  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.820 ms  1.971 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  1.817 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.927 ms * 163.253.5.16 (163.253.5.16)  1.783 ms
+ 8  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.484 ms  5.563 ms 163.253.5.16 (163.253.5.16)  2.154 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.576 ms  5.902 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.482 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.157 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  69.916 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.094 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  69.539 ms  69.512 ms  69.505 ms
+12  150.99.91.222 (150.99.91.222)  163.240 ms 150.99.92.4 (150.99.92.4)  163.041 ms 150.99.91.222 (150.99.91.222)  163.091 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.264 ms 150.99.91.222 (150.99.91.222)  163.138 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.225 ms
+14  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  181.652 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.313 ms cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  184.719 ms
+15  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  185.154 ms  185.318 ms mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.685 ms
+16  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  164.193 ms  163.868 ms  164.359 ms
+17  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.411 ms  163.397 ms  163.321 ms

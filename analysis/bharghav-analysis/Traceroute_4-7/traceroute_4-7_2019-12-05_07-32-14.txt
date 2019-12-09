@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.177 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.074 ms  1.093 ms  1.194 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.515 ms  0.615 ms  0.767 ms
+ 4  10.101.83.233 (10.101.83.233)  1.963 ms  2.136 ms  2.274 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.358 ms  1.355 ms  1.348 ms
+ 6  201-174-251-225.transtelco.net (201.174.251.225)  1.460 ms  1.401 ms  1.453 ms
+ 7  201-174-255-152.transtelco.net (201.174.255.152)  26.877 ms  26.895 ms  26.889 ms
+ 8  201-174-254-140.transtelco.net (201.174.254.140)  41.787 ms  41.743 ms  41.765 ms
+ 9  be4967.ccr21.elp01.atlas.cogentco.com (38.104.193.201)  38.164 ms  38.501 ms  38.501 ms
+10  be2928.ccr42.iah01.atlas.cogentco.com (154.54.30.161)  41.891 ms be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  41.885 ms be2928.ccr42.iah01.atlas.cogentco.com (154.54.30.161)  41.860 ms
+11  be2690.ccr42.atl01.atlas.cogentco.com (154.54.28.129)  56.116 ms  56.288 ms be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  56.006 ms
+12  be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  67.172 ms  67.189 ms be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  67.135 ms
+13  be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  68.475 ms  68.479 ms be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  68.576 ms
+14  be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  71.314 ms  71.333 ms be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  71.406 ms
+15  be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  72.755 ms be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  71.385 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  71.615 ms
+16  38.140.148.75 (38.140.148.75)  71.268 ms 38.140.148.74 (38.140.148.74)  71.243 ms 38.140.148.75 (38.140.148.75)  71.174 ms
+17  155.247.119.90 (155.247.119.90)  72.049 ms  71.975 ms  71.959 ms
+18  planetlab1.temple.edu (129.32.84.160)  72.170 ms  72.294 ms  72.240 ms

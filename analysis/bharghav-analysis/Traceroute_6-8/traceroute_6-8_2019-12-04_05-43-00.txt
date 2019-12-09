@@ -1,0 +1,18 @@
+traceroute to planetlab1.rutgers.edu (165.230.49.114), 30 hops max, 60 byte packets
+ 1  103.49.160.140 (103.49.160.140)  0.277 ms  0.413 ms  0.541 ms
+ 2  csc0g04brb.net.cuhk.edu.hk (137.189.192.233)  0.233 ms  0.243 ms  0.410 ms
+ 3  203.188.117.33 (203.188.117.33)  0.575 ms  0.614 ms  0.646 ms
+ 4  183178024001.ctinets.com (183.178.24.1)  1.853 ms  1.721 ms  1.893 ms
+ 5  202.4.163.3 (202.4.163.3)  2.203 ms  2.341 ms  2.469 ms
+ 6  061244224067.ctinets.com (61.244.224.67)  2.193 ms  2.138 ms  2.316 ms
+ 7  hnk-b2-link.telia.net (62.115.34.109)  2.264 ms  2.302 ms  2.268 ms
+ 8  sjo-b21-link.telia.net (62.115.121.194)  144.887 ms  145.044 ms  144.882 ms
+ 9  nyk-bb2-link.telia.net (62.115.119.228)  212.729 ms  212.785 ms  212.770 ms
+10  phm-b1-link.telia.net (62.115.113.31)  212.564 ms  215.772 ms  215.784 ms
+11  rutgers-ic-338849-phm-b1.c.telia.net (213.248.68.155)  227.871 ms  227.867 ms  231.142 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  planetlab1.rutgers.edu (165.230.49.114)  260.299 ms  278.964 ms  262.589 ms

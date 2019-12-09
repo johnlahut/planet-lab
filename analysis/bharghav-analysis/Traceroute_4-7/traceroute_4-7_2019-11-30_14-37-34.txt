@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.182 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.124 ms  1.255 ms  1.118 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  3.721 ms  0.483 ms  3.894 ms
+ 4  10.101.83.233 (10.101.83.233)  2.057 ms  2.162 ms  1.880 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.414 ms  1.420 ms  1.407 ms
+ 6  201-174-251-225.transtelco.net (201.174.251.225)  1.475 ms  1.471 ms  1.415 ms
+ 7  201-174-255-152.transtelco.net (201.174.255.152)  26.933 ms  26.918 ms  26.873 ms
+ 8  201-174-252-234.transtelco.net (201.174.252.234)  41.809 ms 201-174-254-140.transtelco.net (201.174.254.140)  41.760 ms 201-174-252-234.transtelco.net (201.174.252.234)  41.796 ms
+ 9  be4967.ccr21.elp01.atlas.cogentco.com (38.104.193.201)  38.582 ms  38.533 ms  38.561 ms
+10  be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  41.751 ms be2928.ccr42.iah01.atlas.cogentco.com (154.54.30.161)  43.563 ms  42.110 ms
+11  be2690.ccr42.atl01.atlas.cogentco.com (154.54.28.129)  56.170 ms be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  56.103 ms  56.007 ms
+12  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  66.937 ms  67.161 ms be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  67.208 ms
+13  be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  68.562 ms be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  68.508 ms be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  68.491 ms
+14  be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  71.353 ms be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  71.372 ms  71.461 ms
+15  be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  71.514 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  71.622 ms  71.567 ms
+16  38.140.148.74 (38.140.148.74)  71.227 ms 38.140.148.75 (38.140.148.75)  71.269 ms 38.140.148.74 (38.140.148.74)  71.192 ms
+17  155.247.119.90 (155.247.119.90)  72.044 ms  71.988 ms  71.974 ms
+18  planetlab1.temple.edu (129.32.84.160)  72.238 ms  72.161 ms  72.149 ms

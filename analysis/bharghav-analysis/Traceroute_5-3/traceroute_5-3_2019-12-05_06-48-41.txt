@@ -1,0 +1,18 @@
+traceroute to planetlab6.goto.info.waseda.ac.jp (133.9.81.166), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.418 ms  1.679 ms  1.938 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  15.079 ms  15.093 ms  15.081 ms
+ 3  xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  0.851 ms  0.855 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  0.778 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  0.831 ms  0.827 ms  0.816 ms
+ 5  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.232 ms  2.223 ms ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  1.182 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  2.192 ms  1.703 ms  1.638 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  1.755 ms  1.761 ms 163.253.5.16 (163.253.5.16)  1.790 ms
+ 8  163.253.5.16 (163.253.5.16)  1.761 ms  1.780 ms  1.741 ms
+ 9  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  64.966 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  5.300 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.043 ms
+10  ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.009 ms lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.440 ms ae-5.4079.rtsw.losa.net.internet2.edu (162.252.70.159)  65.253 ms
+11  lax-GM-ET-2-3-0-851.s5.sinet.ad.jp (150.99.199.93)  65.303 ms  65.184 ms 150.99.92.4 (150.99.92.4)  163.380 ms
+12  150.99.92.4 (150.99.92.4)  163.349 ms 150.99.91.222 (150.99.91.222)  163.326 ms  162.912 ms
+13  waseda.gw.sinet.ad.jp (150.99.187.70)  163.251 ms 150.99.91.222 (150.99.91.222)  163.204 ms  163.048 ms
+14  cl2948gl3a.goto.info.waseda.ac.jp (133.9.77.61)  163.961 ms  164.203 ms waseda.gw.sinet.ad.jp (150.99.187.70)  163.351 ms
+15  mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.760 ms  164.249 ms  164.423 ms
+16  * mbone-goto.goto.info.waseda.ac.jp (133.9.81.194)  163.943 ms  164.649 ms
+17  planetlab6.goto.info.waseda.ac.jp (133.9.81.166)  163.226 ms  163.243 ms  163.236 ms

@@ -1,0 +1,19 @@
+traceroute to pl-dccd-01.cua.uam.mx (148.206.185.33), 30 hops max, 60 byte packets
+ 1  129.32.84.129 (129.32.84.129)  0.822 ms  0.817 ms  0.798 ms
+ 2  conwell-internet.core.temple.edu (155.247.119.82)  1.485 ms  1.478 ms  1.346 ms
+ 3  38.140.148.73 (38.140.148.73)  2.128 ms  2.228 ms  2.151 ms
+ 4  be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.133 ms be3164.rcr22.phl01.atlas.cogentco.com (154.54.25.141)  2.021 ms be3163.rcr21.phl01.atlas.cogentco.com (154.54.7.1)  2.188 ms
+ 5  be2137.rcr52.bwi01.atlas.cogentco.com (154.54.83.62)  4.596 ms be2133.rcr51.bwi01.atlas.cogentco.com (154.54.83.58)  4.559 ms  4.538 ms
+ 6  be2131.ccr41.dca01.atlas.cogentco.com (154.54.82.101)  6.105 ms be2132.ccr42.dca01.atlas.cogentco.com (154.54.82.229)  6.100 ms  6.110 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  17.346 ms  17.246 ms  17.152 ms
+ 8  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.198 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  31.215 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  31.621 ms
+ 9  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  39.083 ms be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  39.085 ms  39.032 ms
+10  be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.093 ms be3515.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.98)  39.115 ms be3516.nr51.b020377-3.mfe02.atlas.cogentco.com (154.24.43.102)  39.086 ms
+11  38.104.176.154 (38.104.176.154)  38.943 ms 38.140.240.90 (38.140.240.90)  38.856 ms 38.104.176.154 (38.104.176.154)  38.928 ms
+12  201-174-252-158.transtelco.net (201.174.252.158)  55.097 ms  60.714 ms  55.011 ms
+13  201-174-251-125.transtelco.net (201.174.251.125)  71.015 ms  71.143 ms 201-174-244-133.transtelco.net (201.174.244.133)  71.135 ms
+14  201-174-87-186.transtelco.net (201.174.87.186)  72.348 ms  72.067 ms  72.150 ms
+15  * * *
+16  fixed-187-190-3-18.totalplay.net (187.190.3.18)  72.912 ms  72.789 ms  72.894 ms
+17  148.206.190.1 (148.206.190.1)  72.296 ms * *
+18  pl-dccd-01.cua.uam.mx (148.206.185.33)  72.201 ms  72.185 ms  72.222 ms

@@ -1,0 +1,23 @@
+traceroute to planetlab2.ie.cuhk.edu.hk (103.49.160.132), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  54.823 ms  54.818 ms  55.493 ms
+ 2  irb-225-ar01-hill-hill.runet.rutgers.net (172.28.1.33)  56.026 ms  55.819 ms  55.862 ms
+ 3  xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  56.042 ms xe-1-0-4-2000-dr10-asb-bus.runet.rutgers.net (172.29.18.14)  55.703 ms xe-1-0-4-2000-dr10-hill-bus.runet.rutgers.net (172.29.18.10)  55.517 ms
+ 4  ae10-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.3)  56.291 ms ae10-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.5)  56.407 ms ae11-2000-cr10-hill-nbp.runet.rutgers.net (172.29.6.7)  55.824 ms
+ 5  ae17-2000-cr10-fsci-nbp.runet.rutgers.net (172.29.6.64)  55.934 ms  56.180 ms ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  55.924 ms
+ 6  ae4-2000-cr02-broad-cam.runet.rutgers.net (172.29.6.62)  56.028 ms ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  55.300 ms  55.933 ms
+ 7  ae17-0-er02-broad-ext.runet.rutgers.net (172.29.6.100)  55.925 ms  55.489 ms 163.253.5.16 (163.253.5.16)  55.729 ms
+ 8  163.253.5.16 (163.253.5.16)  56.240 ms  55.750 ms et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  55.731 ms
+ 9  et-1-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.119)  55.988 ms  55.972 ms  55.739 ms
+10  * ae-2.4079.rtsw.ashb.net.internet2.edu (162.252.70.74)  56.351 ms  56.103 ms
+11  ae-2.4079.rtsw.ashb.net.internet2.edu (162.252.70.74)  55.882 ms  54.757 ms ae-20.4079.rtsw.clev.net.internet2.edu (162.252.70.129)  55.124 ms
+12  ae-3.4079.rtsw3.eqch.net.internet2.edu (162.252.70.131)  55.525 ms ae-20.4079.rtsw.clev.net.internet2.edu (162.252.70.129)  55.787 ms ae-3.4079.rtsw3.eqch.net.internet2.edu (162.252.70.131)  55.859 ms
+13  ae-3.4079.rtsw3.eqch.net.internet2.edu (162.252.70.131)  55.552 ms  55.472 ms  55.936 ms
+14  ae-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  87.625 ms  59.535 ms ae-5.4079.rtsw.eqch.net.internet2.edu (162.252.70.162)  59.354 ms
+15  ae-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  83.756 ms ae-1.4079.rtsw.seat.net.internet2.edu (162.252.70.172)  142.054 ms  114.045 ms
+16  207.231.240.24 (207.231.240.24)  198.089 ms ae-1.4079.rtsw.seat.net.internet2.edu (162.252.70.172)  196.050 ms  111.735 ms
+17  192.203.115.134 (192.203.115.134)  223.457 ms 207.231.240.24 (207.231.240.24)  111.849 ms  111.671 ms
+18  203.181.194.179 (203.181.194.179)  279.536 ms  279.787 ms 192.203.115.134 (192.203.115.134)  223.632 ms
+19  203.181.194.179 (203.181.194.179)  279.683 ms  279.686 ms cuhk2-10g.hkix.net (123.255.91.50)  335.789 ms
+20  cuhk2-10g.hkix.net (123.255.91.50)  307.805 ms  307.710 ms 137.189.192.250 (137.189.192.250)  279.862 ms
+21  137.189.192.250 (137.189.192.250)  280.736 ms  280.646 ms 137.189.192.225 (137.189.192.225)  280.849 ms
+22  planetlab2.ie.cuhk.edu.hk (103.49.160.132)  280.897 ms  280.740 ms  280.927 ms

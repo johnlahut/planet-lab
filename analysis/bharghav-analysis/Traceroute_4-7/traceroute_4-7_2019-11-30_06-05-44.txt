@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.210 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.149 ms  1.204 ms  1.263 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.680 ms  0.437 ms  0.552 ms
+ 4  10.101.83.233 (10.101.83.233)  5.514 ms  2.063 ms  5.645 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.360 ms  1.346 ms  1.385 ms
+ 6  201-174-251-124.transtelco.net (201.174.251.124)  18.628 ms 201-174-244-134.transtelco.net (201.174.244.134)  18.737 ms  18.712 ms
+ 7  ustex-elp-sot-dc1.transtelco.net (201.174.253.230)  29.330 ms 201-174-244-149.transtelco.net (201.174.244.149)  29.417 ms 201-174-251-3.transtelco.net (201.174.251.3)  29.418 ms
+ 8  201-174-252-234.transtelco.net (201.174.252.234)  43.126 ms 201-174-254-140.transtelco.net (201.174.254.140)  43.022 ms 201-174-252-234.transtelco.net (201.174.252.234)  43.110 ms
+ 9  be4967.ccr21.elp01.atlas.cogentco.com (38.104.193.201)  39.933 ms  39.470 ms  40.109 ms
+10  be2928.ccr42.iah01.atlas.cogentco.com (154.54.30.161)  43.364 ms  43.403 ms be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  43.049 ms
+11  be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  57.621 ms  57.616 ms  57.272 ms
+12  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  68.367 ms be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  68.042 ms  68.024 ms
+13  be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  69.732 ms be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  69.803 ms  69.842 ms
+14  be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  72.567 ms be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  72.602 ms be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  72.574 ms
+15  be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  72.586 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  72.654 ms  72.664 ms
+16  38.140.148.75 (38.140.148.75)  72.522 ms 38.140.148.74 (38.140.148.74)  72.461 ms  72.318 ms
+17  155.247.119.90 (155.247.119.90)  73.492 ms  73.167 ms  73.210 ms
+18  planetlab1.temple.edu (129.32.84.160)  73.344 ms  73.250 ms  73.334 ms

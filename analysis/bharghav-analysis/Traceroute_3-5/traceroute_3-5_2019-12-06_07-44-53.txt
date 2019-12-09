@@ -1,0 +1,25 @@
+traceroute to planetlab3.rutgers.edu (165.230.49.118), 30 hops max, 60 byte packets
+ 1  133.9.81.190 (133.9.81.190)  0.512 ms  0.729 ms  0.935 ms
+ 2  cl2948gl3.goto.info.waseda.ac.jp (133.9.81.254)  0.933 ms  1.424 ms  1.852 ms
+ 3  133.9.77.62 (133.9.77.62)  0.335 ms  0.330 ms  0.321 ms
+ 4  tokyo1-RM-XE-9-0-11-20.s5.sinet.ad.jp (150.99.187.69)  0.680 ms  0.667 ms  0.672 ms
+ 5  150.99.91.223 (150.99.91.223)  11.497 ms  11.485 ms  0.935 ms
+ 6  150.99.92.5 (150.99.92.5)  98.499 ms  98.745 ms  98.734 ms
+ 7  abilene.lax.gw.sinet.ad.jp (150.99.199.94)  99.397 ms  99.370 ms  99.335 ms
+ 8  et-2-0-0.4070.rtsw.sunn.net.internet2.edu (162.252.70.70)  107.381 ms  107.373 ms  107.508 ms
+ 9  et-7-0-0.4070.rtsw.port.net.internet2.edu (162.252.70.84)  119.680 ms  120.476 ms  120.451 ms
+10  et-7-0-0.4070.rtsw.seat.net.internet2.edu (162.252.70.83)  123.047 ms  123.018 ms  122.981 ms
+11  ae-1.4079.rtsw.minn.net.internet2.edu (162.252.70.173)  155.305 ms  154.534 ms  154.547 ms
+12  ae-1.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)  163.257 ms  163.564 ms  163.527 ms
+13  ae-0.4079.rtsw3.eqch.net.internet2.edu (162.252.70.163)  163.288 ms  163.434 ms  163.374 ms
+14  ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)  173.822 ms  173.758 ms  173.907 ms
+15  ae-1.4079.rtsw.hart2.net.internet2.edu (162.252.70.148)  180.547 ms  180.509 ms  180.438 ms
+16  ae-2.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.101)  187.547 ms  187.528 ms  187.479 ms
+17  et-4-0-0.4079.rtsw.phil.net.internet2.edu (162.252.70.103)  181.796 ms  181.987 ms  181.960 ms
+18  163.253.5.17 (163.253.5.17)  182.967 ms  183.025 ms  183.002 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  planetlab3.rutgers.edu (165.230.49.118)  183.322 ms  183.411 ms  183.430 ms

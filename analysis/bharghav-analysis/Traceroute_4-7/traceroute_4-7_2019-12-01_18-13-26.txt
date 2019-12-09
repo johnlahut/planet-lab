@@ -1,0 +1,19 @@
+traceroute to planetlab1.temple.edu (129.32.84.160), 30 hops max, 60 byte packets
+ 1  148.206.185.38 (148.206.185.38)  0.170 ms * *
+ 2  148.206.190.126 (148.206.190.126)  1.202 ms  1.110 ms  1.262 ms
+ 3  fixed-187-190-3-17.totalplay.net (187.190.3.17)  0.549 ms  0.922 ms  1.063 ms
+ 4  10.101.83.233 (10.101.83.233)  4.383 ms  1.902 ms  1.886 ms
+ 5  201-174-87-185.transtelco.net (201.174.87.185)  1.420 ms  1.414 ms  1.388 ms
+ 6  201-174-251-225.transtelco.net (201.174.251.225)  1.474 ms  1.435 ms  1.387 ms
+ 7  201-174-255-152.transtelco.net (201.174.255.152)  26.961 ms  26.917 ms  26.948 ms
+ 8  201-174-254-140.transtelco.net (201.174.254.140)  40.588 ms 201-174-252-234.transtelco.net (201.174.252.234)  40.629 ms 201-174-254-140.transtelco.net (201.174.254.140)  40.615 ms
+ 9  be4967.ccr21.elp01.atlas.cogentco.com (38.104.193.201)  48.958 ms  48.913 ms  48.944 ms
+10  be2927.ccr41.iah01.atlas.cogentco.com (154.54.29.221)  52.106 ms  52.140 ms  52.353 ms
+11  be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  68.985 ms be2690.ccr42.atl01.atlas.cogentco.com (154.54.28.129)  66.380 ms be2687.ccr41.atl01.atlas.cogentco.com (154.54.28.69)  69.166 ms
+12  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  79.871 ms be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  78.181 ms  78.286 ms
+13  be2132.rcr52.bwi01.atlas.cogentco.com (154.54.82.230)  79.969 ms  79.918 ms be2131.rcr51.bwi01.atlas.cogentco.com (154.54.82.102)  79.104 ms
+14  be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  82.724 ms be2133.rcr21.phl01.atlas.cogentco.com (154.54.83.57)  81.692 ms be2137.rcr22.phl01.atlas.cogentco.com (154.54.83.61)  82.655 ms
+15  be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  82.889 ms be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  81.846 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  82.912 ms
+16  38.140.148.74 (38.140.148.74)  84.277 ms 38.140.148.75 (38.140.148.75)  83.280 ms  81.515 ms
+17  155.247.119.90 (155.247.119.90)  82.344 ms  82.361 ms  82.286 ms
+18  planetlab1.temple.edu (129.32.84.160)  85.118 ms  85.076 ms  85.098 ms

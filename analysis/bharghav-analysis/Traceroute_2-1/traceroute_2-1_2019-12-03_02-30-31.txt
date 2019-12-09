@@ -1,0 +1,16 @@
+traceroute to planetlab2.citadel.edu (155.225.2.72), 30 hops max, 60 byte packets
+ 1  200.17.202.254 (200.17.202.254)  0.061 ms  0.136 ms  0.130 ms
+ 2  p9-v1610-araucaria-c3sl.pop-pr.rnp.br (200.19.74.157)  0.628 ms  0.854 ms  1.032 ms
+ 3  e1-5-v103-lapa-araucaria.pop-pr.rnp.br (200.238.139.9)  0.376 ms  0.545 ms  0.621 ms
+ 4  200.143.254.129 (200.143.254.129)  11.134 ms  0.382 ms  11.136 ms
+ 5  sp2-pr-oi.bkb.rnp.br (200.143.252.61)  7.383 ms  7.401 ms  7.446 ms
+ 6  mia1-sp2-atl.bkb.rnp.br (200.143.255.89)  113.100 ms  112.814 ms  112.787 ms
+ 7  et-4-0-0.469.rtsw.jack.net.internet2.edu (64.57.28.61)  120.057 ms  120.061 ms  120.033 ms
+ 8  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  126.155 ms  126.147 ms  126.269 ms
+ 9  et-8-0-0.4079.rtsw.char.net.internet2.edu (162.252.70.125)  130.540 ms  130.591 ms  130.571 ms
+10  et-7-0-0.4079.rtsw.rale.net.internet2.edu (162.252.70.123)  133.997 ms  133.967 ms  133.888 ms
+11  205-186-224-49.generic.sclightrail.net (205.186.224.49)  139.503 ms  139.656 ms  139.602 ms
+12  155.225.2.34 (155.225.2.34)  146.521 ms  157.935 ms  146.602 ms
+13  155.225.2.33 (155.225.2.33)  147.627 ms  148.094 ms  147.892 ms
+14  vpn.citadel.edu (155.225.2.9)  146.776 ms  146.773 ms  146.846 ms
+15  planetlab2.citadel.edu (155.225.2.72)  147.072 ms  147.061 ms  147.063 ms
