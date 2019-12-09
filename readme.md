@@ -10,6 +10,7 @@
 - #### Class Specific
   - `docs/final_report.pdf` - Written final report 
   - `docs/notebook.html` - Jupyter notebook exported as a web page. No need for installation of Jupyter for read-only purposes.
+  - `analysis/bharghav-analysis` - Files created and owned by Bharghav
 
 ## Cleaned data format
 - All active nodes should be updated and maintained in the `active_nodes.md` file. This will allow us to uniquely identify each node, and ensure that we do not confuse files when it comes time to merge all the data together.
